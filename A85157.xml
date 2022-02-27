@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace and safety for the vvhole kingdom or, An expedient for a safe and well-grounded peace between the King and his people. As also for the speedy settlement of all interests. Studyed and published for the honor of the Kings Majesty, his royal posterity, the present and future happiness of the whole kingdom. By Richard Farrar, Esq; This expedient was read by the author himself at the bar of the House of Peers, the sixth day of July, 1648.</title>
+            <author>Farrar, Richard, Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85157</idno>
+            <idno type="STC">Wing F522</idno>
+            <idno type="STC">Thomason E451_19</idno>
+            <idno type="STC">ESTC R202098</idno>
+            <idno type="EEBO-CITATION">99862505</idno>
+            <idno type="PROQUEST">99862505</idno>
+            <idno type="VID">114666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114666)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace and safety for the vvhole kingdom or, An expedient for a safe and well-grounded peace between the King and his people. As also for the speedy settlement of all interests. Studyed and published for the honor of the Kings Majesty, his royal posterity, the present and future happiness of the whole kingdom. By Richard Farrar, Esq; This expedient was read by the author himself at the bar of the House of Peers, the sixth day of July, 1648.</title>
+                  <author>Farrar, Richard, Esq.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114666:1" rendition="simple:additions"/>
+            <p>PEACE and SAFETY FOR THE Whole Kingdom OR, AN EXPEDIENT For a ſafe and well-grounded PEACE between the King and his People.</p>
+            <p>As alſo for the ſpeedy ſettlement of all INTERESTS.</p>
+            <p>Studyed and publiſhed for the honor of the Kings Majeſty, his Royal Po<g ref="char:EOLhyphen"/>ſterity, the preſent and future happineſs of the whole Kingdom.</p>
+            <p>By RICHARD FARRAR, <abbr>Eſq</abbr>
+            </p>
+            <p>This Expedient was read by the Author him<g ref="char:EOLhyphen"/>ſelf at the Bar of the Houſe of PEERS, the <add>July .7<hi rend="sup">th</hi>.</add> Sixth day of <hi>July,</hi> 1648.</p>
+            <p>
+               <hi>LONDON,</hi> Printed. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114666:2"/>
+            <pb n="3" facs="tcp:114666:2"/>
+            <head>TO THE RIGHT HONORABLE THE <hi>LORDS and COMMONS</hi> aſſembled in Parliament. JUNE 23. 1648.</head>
+            <head type="sub">The humble Petition of <hi>Richard Farrar,</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Petitioner is very confident, that (by the in<g ref="char:EOLhyphen"/>finite Mercy and Goodneſs of GOD) he hath conceived a direct and ſhort way for the obtai<g ref="char:EOLhyphen"/>ning of a <hi>ſafe and well-grounded Peace</hi> in this Kingdom; and <hi>This Peace</hi> not only founded, but built up, upon the <hi>Two great Rocks of REASON and RELIGION.</hi>
+            </p>
+            <p>Your Petitioner doth (therefore) moſt humbly pray, that he may have free liberty from both Houſes of Parliament to repair to his Majeſty to the <hi>Iſle of Wight,</hi> &amp; there to deli<g ref="char:EOLhyphen"/>ver him the particulars in writing, and by diſcourſe (if his Majeſty ſhal command) to give his Majeſty ful ſatisfacti<g ref="char:EOLhyphen"/>on to all Objections: and your Petitioner is moſt will<g ref="char:EOLhyphen"/>ing that the Governor ſhall not only have a Copy of what he preſents (inſtantly upon the delivery of it to the <hi>King</hi>) but alſo (if this honorable Houſe ſhall pleaſe) the Governor, or others, whom they ſhall think fit, ſhall be preſent, with pen, ink, and paper, to write down the whole of all that ſhall be ſpoken <hi>pro &amp; con:</hi> It being far from your Petitioners deſire (God he knows it) ei<g ref="char:EOLhyphen"/>ther to preſent or ſay ought to his Majeſty in private, wiſhing, and in his ſoul moſt earneſtly longing, after nothing more then the ſaving the effuſion of Chriſtian Blood, and the ſudden ſetling of a ſafe and well-ground<g ref="char:EOLhyphen"/>ed PEACE.</p>
+            <closer>And Your Petitioner ſhall &amp;c.</closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:114666:3"/>
+            <head>TO THE Right Honorable THE Earl of Mancheſter, Speaker of the Houſe of PEERS.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SInce it hath pleaſed this Honorable Houſe, after the reading of my Petition, to lay it aſide, I well ſee under how great a Cloud of <hi>Prejudice</hi> I do appear before all the world, preſuming to offer at ſo high an Expedient as <hi>Peace;</hi> being indeed the very Expedient of all Expedients.</p>
+            <p>
+               <hi>My Lord,</hi> I do beg and beſeech your Lordſhip:</p>
+            <p>For his ſake, who ſo willingly ſuffered upon the Croſs, for us all, Jeſus Chriſt:</p>
+            <p>For his ſake that (now) ſo patiently ſuffers under ſo heavy a Croſs, yea under ſo many, ſo great, ſo grievous Croſſes, King <hi>Charles.</hi>
+            </p>
+            <p>For the ſake of his moſt Royal, Princely, hopeful and numer<g ref="char:EOLhyphen"/>ous Iſſue; ſome of whom, albeit they have (haply) croſt the ſeas; yet (perhaps) they have not left all their croſſes behind them.</p>
+            <p>For your own ſake (my Lord) and the reſt of the Honorable
+<pb n="5" facs="tcp:114666:3"/>Houſe of Lords (your fellow Peers) who, if I miſtake not, want not your ſhare of dayly croſſes alſo.</p>
+            <p>And laſtly, for this unhappy Kingdoms ſake (the Nurſe and Mother of us all, whoſe <hi>Genius</hi> lies weltring in his <hi>goared Blood</hi>) this wretched, miſerable, and moſt deplorable Kingdom, aboun<g ref="char:EOLhyphen"/>ding every where with Croſſes; Croſſes, from Eaſt to Weſt, from North to South; even from the Center to the Circumfe<g ref="char:EOLhyphen"/>rence. For theſe Conſiderations (my Lord) I do humbly beſeech you, to be a means, that I may have free liberty (without any interruption) my ſelf (if my voyce will ſerve me) at the Bar, to read my ſhort <hi>Expedient for Peace;</hi> one quarter of an hour will do it; and then when your Lordſhips have heard me, ſpare me not; ſentence me to publick ſhame and puniſhment, if I merit it; and death, if I deſerve it: And ſo he kiſſes your Lorſhips hands, who is,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble ſervant, and ever ready to ſerve the Kingdom, whileſt he is called, <hi>Richard Farrar.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:114666:4"/>
+            <opener>
+               <dateline>
+                  <date>The ſixth of July.</date>
+               </dateline>
+               <lb/>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>I Beleeve (at leſt I hope) that there are but very few Natives of this Kingdom, who (for theſe many years) have not been much troubled, if not deeply afflicted at the ſad and languiſhing condition of it, at the unhappy and bloody differences between the King and Parliament, amongſt thoſe ma<g ref="char:EOLhyphen"/>ny afflicted ſouls, I do profeſs my ſelf to be one; and although in eſtate I am the pooreſt, yet am I rich as any he (whatſoever) in my hearty wiſhes, deſires, and prayers to Almighty God, for a hap<g ref="char:EOLhyphen"/>py <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and <hi>Peace,</hi> or (to uſe the very words of this Honora<g ref="char:EOLhyphen"/>ble Houſe) for a ſafe and well grounded <hi>Peace:</hi> In time God ſo wrought with me, that for ſome moneths paſt, I made <hi>Peace,</hi> the ſubject of my Nocturnal ſtudy: But for a long time without any ſatisfaction to my ſelf at all: at laſt it pleaſed Almighty God (from whom alone cometh every good and perfect gift) who heard my earneſt and groaning prayers, my continual ſighs and de<g ref="char:EOLhyphen"/>ſires, to open unto me the only door (at leaſt in my poor judg<g ref="char:EOLhyphen"/>ment) through which both <hi>King</hi> and <hi>People</hi> muſt paſs, if (at leaſt) they will find the plain, ſafe, eaſie, honeſt and ready way to <hi>Peace:</hi> And here I cannot but profeſs, that the riſes of this my expedient (or the ground from whence theſe Conceptions took their birth) were: Firſt, From the Conſideration of the unhappy and ſad ſeparation of His Majeſties ſacred Perſon, from his Birth<g ref="char:EOLhyphen"/>right, Rule and Government, from His Royal Conſort (the <hi>Queen</hi>) from His numerous and Princely Iſſue, from His loving Subjects, and, at laſt, hurryed away (by his own juſt feares, as it is believed into a Remote <hi>Iſland,</hi> and there remaining under ſome kind of an unkingly reſtraint. Secondly, From the many and fre<g ref="char:EOLhyphen"/>quent <hi>Declarations</hi> which His <hi>Majeſty</hi> had made to his two Hou<g ref="char:EOLhyphen"/>ſes of Parliament, and to his three Kingdoms, wherein he was pleaſed to uſe ſuch high and ſolemn <hi>Proteſtations, Aſſeve<g ref="char:EOLhyphen"/>rations,</hi> and <hi>Imprecations,</hi> that there was nothing in
+<pb n="7" facs="tcp:114666:4"/>his power which he would not do, that there might be a right underſtanding between him and his people: by which it appear<g ref="char:EOLhyphen"/>ed plain to my underſtanding (<hi>rebus ſic ſtantibus</hi>) that the <hi>King</hi> is the only Center from which a <hi>ſetled Peace</hi> muſt flow: and it ſeemed further unto me, that there was no difficulty at all for the <hi>King</hi> (if he were as willing as he vowed) to build a <hi>Temple</hi> for <hi>Peace</hi> to dwell in. After many Debates with my ſelf, (and not a few ſheets of paper written in vain,) it pleaſed Almighty God to make me to digeſt, or form, theſe following Propoſitions (as it were in the behalf of the <hi>King</hi> to his <hi>People;</hi> or at leaſt what I conceived the <hi>King</hi> ought to do in <hi>Reaſon</hi> and <hi>Religion</hi> (the firſt of which he is ſo great a Maſter of, and the ſecond ſo great a Servant to) for the ſetling of a ſafe and well-grounded <hi>Peace:</hi> And for my own part I ever layd it down for a Maxime (from the very beginning of my ſtudy) That if the <hi>King</hi> could and would ſecure that part of the Kingdom, or all thoſe perſons of the Kingdom, that have ſeemed to oppoſe him in words or deeds (ever ſince the beginning of this Parliament) and if they might be ſecure from all future violences, in their lives, eſtates and fortunes, both themſelves and their poſterities for ever, (for tranſacting ſuch things as his Majeſty doth appre<g ref="char:EOLhyphen"/>hend they ought not to have done againſt <hi>Himſelf, his Crown and Dignity, the Laws of the Land, and their fellow-ſubjects;</hi>) That then ſuch a ſecurity (if the People could underſtand it, and that it could be made plain unto them) would prove an open door for a ſafe <hi>Treaty,</hi> at leaſt, if not for a ſafe and well-grounded <hi>Peace</hi> to enter in at: And I preſume I am not much miſtaken in this; ſo now I proceed to the Propoſitions which I have framed and which I doubt not but that his Majeſty will freely offer at the <hi>Altar</hi> of the <hi>Peace</hi> of this Kingdom.</p>
+         </div>
+         <div type="document">
+            <pb n="8" facs="tcp:114666:5"/>
+            <head>THE Piety of the Prince, NOT THE Policy of the People, Muſt make a ſafe and well-grounded PEACE.</head>
+            <p>
+               <hi>The King to grant;</hi>
+               <list>
+                  <item>Firſt, AN Act of Oblivion, as ſtrong as can be deviſed, for the Preſervation of the Lives, Eſtates, and Fortunes, of themſelves and their Poſterities, that have any way offended the King, or their Fellow-ſubjects, from <hi>Anno</hi> 1640. until the paſſing of this Act.</item>
+                  <item>Secondly, The King to confirm that Act by a ſolemn Oath, drawn in the moſt ſtrict manner, that may be, and this to be done in publick, for the better ſatisfaction of the people; and a ſhort Covenant, without any ambiguities (to be underſtood <hi>ad literam</hi>) to be contained in a few lines, for the King to take, and the People alſo, reciprocally; and this will make both Prince and People happy: And this Oath and Covenant to be confirmed in Publick by the Sacrament, and declared to all the People in Print: And thus doing, he will be a glorious King, beloved both of God and man.</item>
+                  <item>
+                     <pb n="9" facs="tcp:114666:5"/>
+The Queen to take the like Oath (the Sacrament muſt be given by her own Prieſts;) and this done in the preſence of perſons of the greateſt honour, and publiſhed in print by her ſelf, and (then) God forbid but ſhe ſhould have the excerciſe of her Religion by her ſelf and family fully: The Prince and Duke of <hi>York,</hi> to do the like in all things the King their Father did.</item>
+                  <item>3 That an Act of Parliament be made in the moſt ſtrong manner that can be, <hi>Viz.</hi> That it ſhall be High Treaſon (by the King unpardonable) for any Member of either Houſe in any ſucceeding Parliament for ever hereafter, ſo much as to motion, or cauſe to be motioned, or by writing or otherwiſe, to act or ſpeak directly or indirectly, any thing, that may tend to the calling in queſtion of the Act of Oblivion, or diſpute the fitneſſe or unfitneſſe, the lawfulneſſe or unlawfulneſſe of it: much more for offering at the repealing of the Act of Oblivi<g ref="char:EOLhyphen"/>on, or of this preſent Act, but the perſon ſo offending (which will be no hard thing to be proved) to be executed in 24. hours after as a Traytor in the higheſt degree, againſt both King and Kingdom: The Execution to be at <hi>Weſtminſter.</hi>
+                  </item>
+                  <item>4 An Act for a general Pardon, and, who ſhall re<g ref="char:EOLhyphen"/>quire it, for a particular one, from the King, for anything con<g ref="char:EOLhyphen"/>tained in the Act of Oblivion.</item>
+                  <item>5 An Act that no Knight of the Shire or Burgeſſe, ſhall ever hereafter be choſen, but that in a few dayes after the Choice, he ſhall in publick at his own Pariſh Church, in the preſence of Three perſons, beſides the Miniſter, take the Oath for the keeping of the Covenant and the Act of Oblivion, and for the faithful obſerving of the Third Act, <hi>viz.</hi> That it ſhall be High Treaſon, &amp;c. and confirme it by the Sacrament: and to bring the Certificate under the hands of Three honeſt men preſent, and the Miniſter, and to deliver it to the Speaker of the Houſe of Commons, before he ſpeak to any publick buſi<g ref="char:EOLhyphen"/>neſſe of the Common-wealth. And every Lord of the Houſe of
+<pb n="10" facs="tcp:114666:6"/>Peers to do the like at their Pariſh Church, and bring the Cer<g ref="char:EOLhyphen"/>tificate to the Speaker of the Houſe of Lords.</item>
+                  <item>6 An Act that no King or Queen hereafter but ſhall at their Coronation (unleſſe they be under age) take the ſame Oath the King now doth, and the ſame Covenant, and con<g ref="char:EOLhyphen"/>firme it by the Sacrament, for the true keeping of the Act of Oblivion, and the never conſenting to the repealing of the Third Act.</item>
+                  <item>7 An Act that all the Lords and Commons of England, and all thoſe that are out of the Kingdom (when they ſhall come in;) in a word, every perſon in the Kingdom, none ex<g ref="char:EOLhyphen"/>cepted of either Sex, from 17 to 100 years, of what calling ſoever they be; I ſay, that every perſon in a convenient time (as ſhort as may be) to take the ſame Oath and Covenant, and confirme it by the Sacrament; every one to take it without equivocation or mental reſervation <hi>(ad literam)</hi> and to their uttermoſt of power to keep it, and likewiſe to take the Oathes of Allegiance and Supremacy (here care muſt be had of Pa<g ref="char:EOLhyphen"/>piſts;) and to this Act ſome addition, that whatſoever Native ſhall paſſe out of the Land, or come in, ſhall take the Oath and Covenant; the Sacrament cannot then with conve<g ref="char:EOLhyphen"/>nience.</item>
+                  <item>8 An Act that no Preacher or Miniſter, Preach or Print, (or any other perſon whatſoever) any thing that may in the leaſt infringe the Act of Oblivion and the Covenant, or the lawfulneſſe of it, or of the Third Act, <hi>Viz.</hi> That it ſhall be High Treaſon, &amp;c. a ſevere puniſhment.</item>
+                  <item>9 An Act prohibiting of all Pamphlets, Books or Papers, printed or written, which have done or do any way aſperſe his Majeſty, the Queen, or Royal Iſſue, the Parliament or the King<g ref="char:EOLhyphen"/>dom of Scotland, or Ireland, ever ſince the beginning of 1640 to the day of the paſſing of the Act; and this Act to obliterate and deface out in all Books of Records, whatſoever or wher<g ref="char:EOLhyphen"/>ſoever
+<pb n="11" facs="tcp:114666:6"/>any thing that is publickly entered, tending this way: A ſevere puniſhment for the party ſo offending, ſelling ordi<g ref="char:EOLhyphen"/>vulging of them, with an Act for the time to come, againſt all that ſhall offend in that kind; a ſevere puniſhment.</item>
+                  <item>10 A ſevere Act againſt all Duels and Quarrels concer<g ref="char:EOLhyphen"/>ning the late differences either in word or deed, included in the Act of Oblivion, and the party ſeverely puniſhed though no harme done; for, who draws his Sword or any weapon in this kind, would, if he could, that all the Kingdom ſhould do the like, which were a horrid thing: a high puniſhment.</item>
+                  <item>11 An Act againſt any that ſhall ſend a challenge, or deliver a challenge by word or writing, and for any that ſhall call Cavalier, or Roundhead, or any ſuch nick-name, which may infringe the Act of Oblivion; and no man to be eſteemed a coward; but on the contrary, a truly valiant man, that ſhall re<g ref="char:EOLhyphen"/>fuſe the challenge, or puts up any affront in that kind, for the preſervation of the Peace and love of the Kingdome, and complaining of it to the Judge, or Juſtice, he ſhall be eſteemed the better, and the Party offending highly puniſhed.</item>
+                  <item>12 An Act that no ſuit ſhall be admitted into any Court of Juſtice or before any Judge, included in the Act of Oblivion, the party offending puniſhed.</item>
+                  <item>13 An Act that whoſoever ſhall refuſe to take the Oath and Covenant, and to confirm it by the Sacrament (herein Papiſts muſt be conſidered becauſe of their Sacrament) ſhall be im<g ref="char:EOLhyphen"/>priſoned without Bail or mainpriſe, and there kept till they do it, having leave to ſell all they have, then to be baniſhed the Kingdome. I leave the particular puniſhment to graver judge<g ref="char:EOLhyphen"/>ments.</item>
+                  <item>14 An Act for a ſevere Puniſhment for any that ſhall wilfully infringe the Oath and Covenant, which he hath confirmed by the Sacrament, if that he perſiſt in the breach of it, and repent it not publickly.</item>
+                  <item>
+                     <pb n="12" facs="tcp:114666:7"/>
+15 An Act that no man ſhall upbraid any perſon or his po<g ref="char:EOLhyphen"/>ſterity on either ſide, King or Parliament, although he have been diſcovered, or ſhall be diſcovered and found guilty of any miſdemeanours pardoned in the Act of Oblivion; a high pu<g ref="char:EOLhyphen"/>niſhment for him that breaks this Act.</item>
+                  <item>16 An Act that all perſons now under age, men or women, and not now fit to receive the Sacrament, ſhall when they come to age, at the firſt taking of it, likewiſe take the Oath and Covenant: and this Act to order a publick Regiſter in e<g ref="char:EOLhyphen"/>very Pariſh of the Kingdom Alphabetically, that ſo every mans name may be ſeen, who have and have not taken the Oath and Covenant, and confirmed it by the Sacrament.</item>
+                  <item>17 An Act for calling in and nulling of all His Majeſties Declarations againſt the two Houſes of Parliam. or any other perſon that hath offended or ſeemed to offend the King, as alſo a calling in or nulling all ſuch as the two Houſes have ſet forth againſt the King or his Friends, as ſhall be agreed on in the Treaty.</item>
+                  <item>18 An Act for tender conſciences, that they may enjoy their conſciences free, herein great care muſt be had, what liberty is given, for publick or private meetings, as alſo for Printing of opinions: the latitude of theſe muſt be well thought of; but ſurely there will never be a happy ſettlement in this Kingdome unleſſe great care be had of tender conſciences; ſo numerous they are, and ſo juſt their pretence; for doubtleſſe it may eaſily be proved by Reaſon and Religion, that no man ought to force the conſcience of another, but he that lives quietly, and obe<g ref="char:EOLhyphen"/>diently under the Lawes of the Kingdome without offence, ſhould not (as formerly) be preſt to come to any outward worſhip. But this Rule never fails; a tender and a good conſcience is no diſturber of the peace, and Government he lives under, but rather ſuffers with patience, then be active at all by oppoſition.</item>
+                  <item>
+                     <pb n="13" facs="tcp:114666:7"/>
+19 That His Majeſty engage himſelf, that the Queen, Prince and Duke of <hi>York,</hi> ſhall perform their parts of theſe Acts that belong to them, which doubtleſſe he can and will do, and for his own Party alſo.</item>
+                  <item>20 An Act that no man ſhall be of any Jury, or bear any office in the Kingdome, or be held a good witneſſe in any cauſe (if any perſon except againſt him) but he ſhall be put to the triall, whether or no he hath taken the Oath and Covenant, and if he hath not, then to do it before he be received for a good witneſſe.</item>
+                  <item>21 An Act that preſent care be taken to ſatisfie the Army, all their juſt arrears at full, and forthwith to be disbanded.</item>
+                  <item>22 An Act that all former Arrears of the Earl of <hi>Eſſex</hi> his Commanders and Souldiers, or Officers, be likwiſe taken care for, that they be ſatisfied their juſt dues.</item>
+                  <item>23 That the arrears due from the Parliament to the Scots be alſo order taken for, and to pay and ſatisfie them.</item>
+                  <item>24 An Act that all Gariſons or Armies, now already in the Kingdom, or coming into the Kingdom, belonging to the King or pretending for him, or any way invading the Parliament, be alſo disbanded.</item>
+               </list>
+            </p>
+            <p>To theſe preceding Acts, I deny not, but ſome additions poſſibly may be, for the further and better maintaining of the peace of this Kingdome; too much cannot be ſaid or done in a matter of ſo high a concernment as this is; for what is to be done but once, ought to have no circumſtances omitted, that it may be well done.</p>
+            <p>So far (now) as I can apprehend, there can be no fairer or more hopefull way, or means to a Treaty of Peace with the King; (I am ſure none more reaſonable and Religions) then
+<pb n="14" facs="tcp:114666:8"/>theſe formerly expreſſed, which if he ſhall be pleaſed to grant. wil give a high ſatisfaction to the people, and render the King glorious for ever.</p>
+            <p>It is an old proverb, (Pardon the commonneſſe of it) faſt bind faſt find; and if His Majeſty ſhall be pleaſed to offer this, or what other, or more, of his own Princely diſpoſition, he ſhall think fit, as I am confident he will doe what he can, who can deſire more, or who can doubt, but it will prove a true love-knot? A knot of perfect love and amity from the King to His People; of love and higheſt duty from the people to the King and his Poſterity, and of mutall love and amity between man and man throughout the whole King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>If any man (now) can ſhew a better ſecurity in Reaſon or Religion, (for on theſe two great Rocks, I build this Porch to the Temple of Peace:) I ſay, if any man can ſhew a better or ſtronger ſecurity on His Majeſties part, for the Peace and ſafety of His people, let him ſpeak it, let him produce it, I envy it not, I ſhall rejoice at it.</p>
+            <p>But if there be no way (or meanes) more ſafe, no way ſo ſafe, nay no other way of ſafety but this, (unleſſe God from heaven ſhould ſhower down his holy Spirit of love and unity upon the heart of every particular perſon in the Kingdome, and confirm it alſo, which ſurely no man hopes or expects, (though all things are poſſible with God) I ſay, (I hope) it will not be refuſed by the people of this Kingdome, or by thoſe that repreſent the whole nation, if the King ſhall graci<g ref="char:EOLhyphen"/>ouſly offer it, but it will be thought a godlike Act of a mortal King, ſince in this particular (as I conceive) he can eſſenti<g ref="char:EOLhyphen"/>tially do no more for the ſafety of His People of this King<g ref="char:EOLhyphen"/>dome; nor do I believe, that ever King did ſo much humble himſelf to his People, Since the firſt King that ever raigned.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb n="15" facs="tcp:114666:8"/>
+            <opener>
+               <salute>PEacefull Reader,</salute>
+            </opener>
+            <p>(for into ſuch hands I wiſh this my Ex<g ref="char:EOLhyphen"/>pedient may come) I am not ignorant how hard and un<g ref="char:EOLhyphen"/>civilly I preſſe upon his Majeſties clemency, in my ſuppoſed pre<g ref="char:EOLhyphen"/>ceding Propoſitions. God forbid I ſhould not think, but much leſſe will and ought to ſatisfie the people; ſure I am, it is more then is fit for any to requeſt, even the moſt guilty and greateſt offender in the three Kingdoms: but I have (boldly, I muſt confeſſe, and humbly I beg His Majeſties pardon for it, whom I know is all mercy and ſweetneſſe) adventured to dive into the very bottom of ſecurity. His Majeſty muſt be the chuſer and the Royall diſpenſator: If hee can do it with leſſe, who ought not to be ſatisfied? The confirmation of it by his own, the Queen's, the Prince's and the Duke of York's taking the Sa<g ref="char:EOLhyphen"/>crament may be thought too much; I moſt humbly ſubmit. But for the univerſall taking of it, both the Oath, Covenant, and confirming of it by the Sacrament, is ſo neceſſary (in my weak judgement) that I dare ſay (for many Reaſons) no perfect Peace can be had without it: but it being done, it will in a lit<g ref="char:EOLhyphen"/>tle time work revenge out of the hearts of the people on both ſides, when all men ſhall ſee at what a dear rate they ſhall pur<g ref="char:EOLhyphen"/>chaſe it. Thus bitterneſſe will extinguiſh (when all hope of Revenge is taken away) and love to each other, it is hoped, will daily increaſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
